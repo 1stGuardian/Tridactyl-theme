@@ -25,3 +25,11 @@
     width: 75% !important;
     z-index: 69420 !important;
 }
+
+#completions {
+    background-color: var(--background);
+    border-top: unset !important;
+    font-size: 1rem;
+    overflow: auto;
+    order: 2;
+}
