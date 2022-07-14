@@ -18,10 +18,10 @@
     border-top-left-radius: 1rem !important;
     border-top-right-radius: 1rem !important;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
-    top: 50% !important;
+    top: 20% !important;
     left: 50% !important;
     bottom: unset !important;
-    transform: translate(-50%, -50%) !important;
+    transform: translateX(-50%) !important;
     width: 75% !important;
     z-index: 69420 !important;
 }
